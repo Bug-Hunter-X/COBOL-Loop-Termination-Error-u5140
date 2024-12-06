@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in COBOL loop termination. The provided COBOL program demonstrates an off-by-one error where the loop condition is incorrect causing one less iteration than expected. The solution provides the corrected code with the appropriate termination condition.
